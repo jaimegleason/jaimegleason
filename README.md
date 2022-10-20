@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaimegleason
 - 👀 I’m interested in artificial intelligence, machine learning, and bioinformatics.
-- 🌱 I’m currently learning Java and Python!
+- Currently a sophomore in Computer Science + Philosophy at UIUC
 
 <!---
 jaimegleason/jaimegleason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
