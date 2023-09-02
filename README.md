@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaimegleason
-- 👀 I’m interested in artificial intelligence, machine learning, and bioinformatics.
+- 👀 I’m interested in artificial intelligence and graph databases.
 - Currently a sophomore in Computer Science + Philosophy at UIUC
 
 <!---
