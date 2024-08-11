@@ -1,4 +1,4 @@
-- Junior in Computer Science + Philosophy at UIUC
+- Senior in Computer Science + Philosophy at UIUC
 
 <!---
 jaimegleason/jaimegleason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
